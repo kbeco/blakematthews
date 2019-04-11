@@ -1,0 +1,15 @@
+---
+title: Typography
+---
+
+My group studies evolution as a contemporary ecological and ecosystem process. We are interested in the ecological dynamics of natural selection, and the reciprocal interactions among ecological, ecosystem, and evolutionary dynamics.
+
+**Feedbacks between phenotypic evolution and ecosystem dynamics** - Feedbacks are central to understanding evolving biological systems. In aquatic systems, we study how contemporary trait evolution of predators (e.g. threespine stickleback) can affect community structure (of prey and non-prey) and the functioning of ecosystems (e.g. habitat structure, nutrient cycling, productivity). Such organisms-mediated ecosystem effects can feedback to affect selection gradients and evolutionary responses.!
+
+**Evolution and the resilience of ecosystems** - Interactions between ecological and evolutionary processes are fundamental for understanding the balance of feedbacks that govern ecosystem stability and resilience to environmental change. Using pond and mesocosm experiments, we study how species interactions and biodiversity affect the resilience of aquatic system to perturbations (e.g. nutrient pollution).
+
+**Evolution of the organism-environment interaction** - All living organisms evolve in a reciprocal interaction with their environment. The evolution of phenotypic plasticity is an important component of this interaction. In aquatic organisms, we study both the causes and consequences of plasticity. In isopods, cryptic pigmentation is a developmentally plastic trait, whose evolution is likely mediated by predation, resources, and habitat structure. In stickleback, trait plasticity can have effects on ecosystems that are independent of the genetic background of the population.
+
+**The community context of evolution** - Contemporary evolution in natural populations is shaped by the interplay of abiotic environments and species interactions. It is the structure and composition of communities that defines ecological dynamics of natural selection. We have recently begun to study the community context of evolution and adaptation in freshwater ecosystems (lakes and streams) on the Southern Peninsula of Greenland. The lakes of Greenland are inhabited by only two fish species (threespine stickleback and char), and so there are a limited number of food web configurations (e.g. only one species, both species, or neither species). We are interested in how this community context (i.e. presence or absence of Char) affects the evolution of interactions between stickleback and their prey.
+
+We approach these questions using large scale mesocosm experiments, and a combination of comparative field surveys, modeling, and lab studies.
