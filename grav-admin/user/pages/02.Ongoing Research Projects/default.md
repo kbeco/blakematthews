@@ -1,0 +1,55 @@
+---
+title: 'Ongoing Research Projects'
+---
+
+**Project #1:** Overall project:Life in Lake Constance: Past, present, and future: [https://seewandel.org/en/startseite/](https://seewandel.org/en/startseite/)
+
+My subproject: Evolutionary ecology of stickleback in Lake Constance : [https://seewandel.org/en/l13-eng/](https://seewandel.org/en/l13-eng/)
+
+Research Team: Ole Seehausen, Piet Spaak, Cam Hudson (postdoc), Angelina Arquint.
+
+<i>In this project we are interested in which traits govern the efficiency of stickleback foraging in different ecological contexts. Stickleback in Lake Constance are unusually abundant for such a large lake, and we are interested how this ecological context affect ecotype formation within the lake, and between the lake and the surrounding streams.</i>
+
+<br />
+
+**Project #2:** Overall project: Digging deep into Lake Victoria’s past: 20,000 years of evolution and ecosystem dynamics in the world’s largest tropical lake reconstructed from sediment cores, fossils, and ancient DNA.
+
+PIs: Ole Seehausen, Martin Grosjean, Thomas Gilbert
+
+Sub-project: Changes in the composition and size structure of zooplankton communities
+over time.
+Research team: Maria Cuenca Cambronero, Oliver Heiri, Colin Courtney-Mustaphi
+
+<i>In this project we are interested in understanding how physical and chemical environments interact (reciprocally or otherwise) with biodiversity change over the course of ecosystem development. Lake Victoria filled rapidly about 20K years ago and a hallmark of the ecosystem is the adaptive radiation of cichlids, which has culminated in over 500 species. We are interested in how this radiation both emerges from, and subsequently affects, ecosystem dynamics.</i>
+
+<br />
+
+**Project #3:** Eco-evolutionary dynamics in aquatic ecosystems: from mesocosms to natural ponds
+
+Research team: Marvin Moosmann, Ryan Greenway, Jakob Brodersen
+
+<i>The proposed research explores the influence of rapid trait evolution on contemporary community and ecosystem dynamics, and the role of such changes on natural selection. These ecological dynamics of natural selection are a focal point for the field of eco-evolutionary dynamics, which grew from the recognition that rapid evolution can culminate in feedbacks between ecological and evolutionary processes. However, we know little about which heritable traits are involved in these feedbacks, and the mechanisms by which trait-mediated effects of organisms on different ecosystem components (e.g. community composition, nutrient cycling) can shape selection pressures. In this work, we study the evolution of stickleback foraging in natural ponds and lakes on the Southern Peninsula of Greenland. In particular, we are interested in how the community context, namely the prey (i.e. zooplankton) and predators (i.e. Char), affect stickleback trait evolution.</i>
+
+<br />
+
+**Project #4:** Interactive effects of diet and nutrition on phenotypic plasticity and adaptation.
+
+Research team: Moritz Lürig, Karen Sullam, Jukka Jokela, Katja Räsänen
+
+<i>Multiple components of environmental change threaten the persistence of natural populations, and many of these relate to the quantity and quality of organisms’ diet. Together with Katja Räsänen, and other members of an “Asellus Consortium”, we are interested in using the detritivorous isopod (Asellus aquaticus) to address both fundamental applied questions about adaptation to stress in both natural and human modified ecosystems. Isopods are a particularly useful model to study developmental plasticity of pigmentation and growth during development to maturity, and, more generally, life history evolution in response to predation pressure and nutritional environments.</i>
+
+<br />
+
+**Project #5:** Overall project: Eco-Evo-Devo dynamics of biodiversity: Myvatn threespine stickleback as a model
+
+Research team: Bjarni Kristjansson, Katja Räsänen, Skuli Skulason, Zophonias Jonsson, Arni Einarsson, Anthony Ives.
+
+<i>Understanding the processes that create, maintain and alter biological diversity is a primary goal of evolutionary biology. This is becoming even more important given the rapid changes in biodiversity due to human activities. Although there is a growing recognition that ecological and evolutionary processes can interact on similar time scales and jointly influence biodiversity, knowledge of these integrated processes is still fragmented. In this project, we quantify decades of phenotypic evolution of stickleback in Lake Myvatn in relation to temporal and spatial variation in both abiotic (e.g. temperature variation arising from inflowing hot springs) and biotic (e.g. midge emergence dynamics) environmental conditions.</i>
+
+<br />
+
+**Project #6:** Overall project: Eco-evolutionary dynamics in an urban planet: Underlying mechanisms and ecosystem feedbacks.  
+
+Research team: [https://www.urbanecoevo.net/](https://www.urbanecoevo.net/)
+
+<i>A great challenge for ecology in the coming decades is to understand the role humans play in eco-evolutionary dynamics. We define eco-evolutionary dynamics as the interplay between ecology and evolution on contemporary time scales. Emerging evidence shows that evolution can happen at much shorter time scales than originally believed. If, as the evidence indicates, such rapid evolutionary change affects ecosystem functioning and stability, it might have significant implications for ecological processes and human well-being on a contemporary scale. Humans are some of the most potent drivers of natural selection, with the potential to create unprecedented evolutionary consequences for Earth’s ecosystems. In human-dominated environments such as cities, selection pressures acting on traits can affect population dynamics by changing organisms’ rates of survival or reproductive success, leaving a genetic signature that might affect community dynamics and ecosystem functions. As cities expand rapidly around the globe, urbanization is becoming a dominant cause of human-driven eco-evolutionary change.</i>
